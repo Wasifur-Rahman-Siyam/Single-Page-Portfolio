@@ -270,6 +270,7 @@ font-weight: 700;
 }
 
 .portfolio-item{
+    margin-top: 35px;
     width: 300px;
     border-radius: 3px;
     overflow: hidden;
